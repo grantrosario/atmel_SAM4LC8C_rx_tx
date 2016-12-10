@@ -1,4 +1,9 @@
 # Atmel SAM4LC8C Xplained Pro
+
+## This project requires the following:
+## Ateml SAM4L Xplained Pro board -- http://www.atmel.com/tools/atsam4l-xstk.aspx
+## Must have Atmel Studio installed
+
 Program to grab sensor data (temperature and light) from one Atmel Xplained Pro board and wirelessly transmit that data to a receiving Atmel Xplained Pro board
 
 ###-----------------------------------
