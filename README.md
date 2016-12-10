@@ -1,4 +1,4 @@
-# Atmel SAM4LC8C Xplained Pro
+# Atmel SAM4L program to gather sensor data, transmit data and receive data wirelessly
 
 ## This project requires the following:
 ## Atmel SAM4L Xplained Pro board x2 -- http://www.atmel.com/tools/atsam4l-xstk.aspx
